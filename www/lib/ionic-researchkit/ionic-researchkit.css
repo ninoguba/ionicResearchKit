@@ -64,6 +64,10 @@
   height: 100% !important;
 }
 
+.irk-slider .range {
+  justify-content: space-between;
+}
+
 .irk-slider-slide {
   padding-top: 80px;
   color: #000;
